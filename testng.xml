@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DCI Tests" parallel="classes" thread-count="5" verbose="10">
+  <test name="all">
+  	<packages>
+		<package name="tests"/>
+	</packages>
+  </test>
+</suite>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b63f5153-77c1-443b-ae23-74f4bb00f2e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z26Gc3hJZqo8OW3QbYESqSiRr3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git_clones\gootickets\src\test\java" />
+      <recent name="C:\git_clones\gootickets\src\main\test\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git_clones\gootickets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.default">
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="gootickets" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="default" type="TestNG">
+      <module name="gootickets" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="TestNG.default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b63f5153-77c1-443b-ae23-74f4bb00f2e7" name="Default Changelist" comment="" />
+      <created>1584024746526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584024746526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3011" y="115" key="#Unnamed" timestamp="1584025517526">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="3011" y="115" key="#Unnamed/2560.0.1707.920/0.0.1707.920@2560.0.1707.920" timestamp="1584025517526" />
+    <state x="2869" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584025763419">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="2869" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.1707.920/0.0.1707.920@2560.0.1707.920" timestamp="1584025763419" />
+    <state x="3235" y="376" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584025831249">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="3235" y="376" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/2560.0.1707.920/0.0.1707.920@2560.0.1707.920" timestamp="1584025831249" />
+    <state width="1663" height="217" key="GridCell.Tab.0.bottom" timestamp="1584027855036">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="217" key="GridCell.Tab.0.bottom/2560.0.1707.920/0.0.1707.920@2560.0.1707.920" timestamp="1584027855036" />
+    <state width="1663" height="217" key="GridCell.Tab.0.center" timestamp="1584027855036">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="217" key="GridCell.Tab.0.center/2560.0.1707.920/0.0.1707.920@2560.0.1707.920" timestamp="1584027855036" />
+    <state width="1663" height="217" key="GridCell.Tab.0.left" timestamp="1584027855036">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="217" key="GridCell.Tab.0.left/2560.0.1707.920/0.0.1707.920@2560.0.1707.920" timestamp="1584027855036" />
+    <state width="1663" height="217" key="GridCell.Tab.0.right" timestamp="1584027855036">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="217" key="GridCell.Tab.0.right/2560.0.1707.920/0.0.1707.920@2560.0.1707.920" timestamp="1584027855036" />
+    <state x="3076" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1584027727056">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="3076" y="195" width="672" height="678" key="search.everywhere.popup/2560.0.1707.920/0.0.1707.920@2560.0.1707.920" timestamp="1584027727056" />
+  </component>
+</project>

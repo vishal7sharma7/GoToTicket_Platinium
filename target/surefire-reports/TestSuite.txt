@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.519 s <<< FAILURE! - in TestSuite
+accessWebSiteAndSignUp(tests.gooticketsTests)  Time elapsed: 6.666 s  <<< FAILURE!
+java.lang.IllegalMonitorStateException
+	at tests.gooticketsTests.accessWebSiteAndSignUp(gooticketsTests.java:62)
+
